@@ -1,0 +1,1 @@
+//  create a collage management system in that base class containing persons name,age and two derived class,teacher contain there data resp. then also create a virtual funtc in that defalt
